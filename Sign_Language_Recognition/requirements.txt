@@ -1,3 +1,6 @@
 opencv-python
 numpy
 tensorflow
+matplotlib
+kaggle
+pandas
